@@ -1,0 +1,22 @@
+{
+  "name": "secretsantacypress",
+  "version": "1.0.0",
+  "description": "automation tests for secret santa",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run ",
+    "cy:dash": "npx cypress run --record --key cc4b4a0f-5f6e-4e22-9b39-bb2f4b88063c",
+    "cy:chrome": "npx cypress run --browser chrome",
+    "cy:electron": "npx cypress open --browser electron"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "dsnaydina",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.5.0"
+  }
+}
