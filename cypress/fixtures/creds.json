@@ -1,4 +1,24 @@
-{
-    "email": "manson13@54.mk",
-    "pass": "test1234"
-}
+[
+  {
+    "mainUser": {
+      "email": "manson13@54.mk",
+      "password": "test111",
+      "name": "dariaTest"
+    },
+    "user2": {
+      "email": "manson13@54.mk",
+      "password": "test111",
+      "name": "dariaTest1"
+    },
+    "user3": {
+      "email": "manson13@54.mk",
+      "password": "test111",
+      "name": "dariaTest2"
+    },
+    "user4": {
+      "email": "manson13@54.mk",
+      "password": "test111",
+      "name": "dariaTest3"
+    }
+  }
+]

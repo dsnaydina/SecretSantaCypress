@@ -1,0 +1,9 @@
+{
+  "boxNameField": ":nth-child(1) > .frm",
+  "boxIdField": ":nth-child(3) > .frm",
+  "boxIcon": ":nth-child(6) > .picture_svg_wrapper",
+  "giftPriceToggle": "input",
+  "maxAmount": ".MuiGrid-grid-xs-5 .frm",
+  "currency": ".MuiGrid-grid-xs-7 .frm",
+  "goToRandomizer": "a > .txt-secondary--med"
+}

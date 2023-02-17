@@ -1,0 +1,10 @@
+{
+  "iParticipateToggle": ".switch__toggle",
+  "user1NameField": ":nth-child(3) > .frm-wrapper > #input-table-0",
+  "user1EmailFiled": ":nth-child(4) > .frm-wrapper > #input-table-0",
+  "user2NameField": ":nth-child(5) > .frm-wrapper > #input-table-1",
+  "user2EmailFiled": ":nth-child(6) > .frm-wrapper > #input-table-1",
+  "user3NameField": ":nth-child(7) > .frm-wrapper > #input-table-2",
+  "user3EmailFiled": ":nth-child(8) > .frm-wrapper > #input-table-2",
+  "submitRandomizer": ".santa-modal_content_buttons > .btn-main"
+}

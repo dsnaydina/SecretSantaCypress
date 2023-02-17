@@ -1,0 +1,7 @@
+{
+  "arrowRight": ".btn-arrow-right",
+  "submitButton": ".btn-main",
+  "randomizer": "div.layout-1 > section.layout-1__main-wrapper > div.layout-1__main > section > div > section > div > div.home-page-buttons > a:nth-child(2) > div",
+  "notificationPage": ".layout-1__header-wrapper-fixed > .layout-1__header > .header > .header__items > .layout-row-start > :nth-child(2)",
+  "knowYourPerson": ".btn-service"
+}
