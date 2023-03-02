@@ -16,7 +16,11 @@
   "author": "dsnaydina",
   "license": "ISC",
   "devDependencies": {
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
     "@faker-js/faker": "^7.6.0",
     "cypress": "^12.5.0"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.1.3"
   }
 }
